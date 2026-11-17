@@ -25,7 +25,7 @@ repositories:
 
 website: "https://kube-ovn.io"
 
-artwork: "https://landscape.cncf.io/logos/kube-ovn.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kube-ovn"
 
 adopters:
   path: "https://github.com/kubeovn/kube-ovn/blob/master/USERS.md"
